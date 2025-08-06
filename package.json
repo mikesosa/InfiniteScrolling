@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "gh-pages": "^2.2.0",
-    "react-scripts": "3.3.1"
+    "react-scripts": "5.0.1"
   },
   "homepage": "https://mikesosa.github.io/InfiniteScrolling/",
   "scripts": {
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.8.0",
+    "eslint": "^9.32.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
